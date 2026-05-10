@@ -1,0 +1,13 @@
+Algorithm,Accuracy
+Neural Network (MLP),0.9525
+XGBoost,0.9475
+CatBoost,0.9475
+Gradient Boosting,0.945
+SVM,0.9425
+Random Forest,0.9375
+Decision Tree,0.9375
+LightGBM,0.9325
+Naive Bayes,0.855
+Logistic Regression,0.8375
+KNN,0.7475
+AdaBoost,0.71
